@@ -8,7 +8,7 @@
 
 `Gluelam (prefixes, DAC, steno) -> Iron Line -> μgrad games hub`
 
-This repository is the **org landing** for the games hub. Canonical implementation: **[qbitOS/uvspeed](https://github.com/qbitOS/uvspeed)** — `web/games-ugrad-hub.html`, `web/qbitos-gameHUB/`, shared `web/*.js`.
+This repository is the **org landing** for the games hub. **Public live surfaces:** `games.ugrad.ai`, `raw.games.ugrad.ai`, `go.ugrad.ai`, `install.games.ugrad.ai` (see README). Implementation is maintained in **[qbitOS/uvspeed](https://github.com/qbitOS/uvspeed)** — `web/games-ugrad-hub.html`, shared `web/*.js`.
 
 ## Control Envelope
 

@@ -11,7 +11,8 @@ AI tooling: Cursor IDE; Claude / GPT / Mistral-class models (assistive; human re
 |--|--|
 | **Principal architect** | **Tad R. Ericson** |
 | **Organization** | qbitOS / ugrad.ai |
-| **Upstream monorepo** | [qbitOS/uvspeed](https://github.com/qbitOS/uvspeed) — `web/games-ugrad-hub.html`, `web/qbitos-gameHUB/` |
+| **Canonical live surfaces** | [games.ugrad.ai](https://games.ugrad.ai/) · [raw.games.ugrad.ai](https://raw.games.ugrad.ai/) · [go.ugrad.ai](https://go.ugrad.ai/) · [install.games.ugrad.ai](https://install.games.ugrad.ai/) |
+| **Upstream monorepo (developers)** | [qbitOS/uvspeed](https://github.com/qbitOS/uvspeed) — `web/games-ugrad-hub.html`, shared `web/` |
 
 ## AI-assisted development (explicit)
 
