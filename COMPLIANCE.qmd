@@ -1,0 +1,15 @@
+# qbitos{ugrad-gameHUB} Compliance Baseline
+
+## Compliance Root
+
+- Canonical policy: https://github.com/qbitOS/compliance
+
+## Runtime Path
+
+`Gluelam (prefixes, DAC, steno) -> Iron Line -> μgrad games hub`
+
+This repository is the **org landing** for the games hub. Canonical implementation: **[qbitOS/uvspeed](https://github.com/qbitOS/uvspeed)** — `web/games-ugrad-hub.html`, `web/qbitos-gameHUB/`, shared `web/*.js`.
+
+## Control Envelope
+
+`No forked classifiers / upstream changes via uvspeed / Apache-2.0 org baseline`
